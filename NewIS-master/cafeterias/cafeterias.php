@@ -60,7 +60,7 @@ session_start();
         echo '        
           <ul class="nav navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="fa fa-user"><strong> ' . $_SESSION['FirstName'] . " " . $_SESSION['LastName'] . ' - ' . $_SESSION['AdmissionNumber'] . '</strong></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -98,7 +98,7 @@ session_start();
         <a href="./strathmore.php">
           <div class="card">
             <div class="card-body">
-              <img src="./../images/Beef-Stew-Ugali-1.jpg" alt="hotel1" />
+              <img src="http://cateringnorthdublin.com/wp-content/uploads/2015/10/hot_buffet-1080x675.jpg" alt="hotel1" />
             </div>
             <div class="card-footer">
               <div class="name">
@@ -120,7 +120,7 @@ session_start();
         <a href="./pate.php">
           <div class="card">
             <div class="card-body">
-              <img src="./../images/omena.jpg" alt="hotel4" />
+              <img src="https://stat.ameba.jp/user_images/20190501/13/pote-take/2e/76/j/o1920128114401125861.jpg" alt="hotel4" />
             </div>
             <div class="card-footer">
               <div class="name">
@@ -142,7 +142,7 @@ session_start();
         <a href="./kilimanjaro.php">
           <div class="card">
             <div class="card-body">
-              <img src="./../images/Beef-Stew-Ugali-1.jpg" alt="hotel1" />
+              <img src="https://www.factinate.com/wp-content/uploads/2018/01/14-3.jpg" alt="hotel1" />
             </div>
             <div class="card-footer">
               <div class="name">

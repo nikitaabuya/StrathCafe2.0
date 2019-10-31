@@ -17,6 +17,7 @@ session_start();
   <link href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap" rel="stylesheet" />
   <link href="./../css/styles.css" type="text/css" rel="stylesheet" />
   <link rel="icon" href="./../images/logo/favicon.ico" type="image/icon" />
+   <link rel="stylesheet" href="./../css/styles.css" />
 
   <title>Home</title>
 </head>
@@ -47,7 +48,7 @@ session_start();
         echo '        
           <ul class="nav navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="fa fa-user"><strong> ' . $_SESSION['FirstName'] . " " . $_SESSION['LastName'] . ' - ' . $_SESSION['AdmissionNumber'] . '</strong></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -120,13 +121,13 @@ session_start();
             <!--First slide-->
             <div class="carousel-item active">
               <div class="col-md-12">
-                <img src="./../images/fries1.jpg" class="img-fluid">
+                <img src="https://naranjasvitaminadas.com/wp-content/uploads/2018/03/naranjas-navel-vitaminadas-valencia-interior.jpg" class="img-fluid">
               </div>
             </div>
             <!--second slide-->
             <div class="carousel-item">
               <div class="col-md-12">
-                <img src="./../images/chicken_stew.png" class="img-fluid">
+                <img src="https://image.jimcdn.com/app/cms/image/transf/none/path/se7b4bf1b1d0f1b52/image/i23cfe9dcfdce6e42/version/1446748451/image.jpg" class="img-fluid">
               </div>
             </div>
 
@@ -134,17 +135,26 @@ session_start();
             <!--Third slide-->
             <div class="carousel-item">
               <div class="col-md-12">
-                <img src="./../images/hotdog.jpg" class="img-fluid">
+                <img src="https://scontent-frx5-1.cdninstagram.com/vp/09ac938e9cdb2add9e734428997c6947/5E117256/t51.2885-15/e35/50163130_240400363531607_7349236703745403163_n.jpg?_nc_ht=scontent-frx5-1.cdninstagram.com" class="img-fluid">
               </div>
             </div>
 
             <!--Fourth slide-->
             <div class="carousel-item">
               <div class="col-md-12">
-                <img src="./../images/spaghetti 2.jpg" class="img-fluid">
+                <img src="https://gratiskalorietabel.dk/wp-content/uploads/2017/08/kalorierichokoladekage-1024x683.jpg" class="img-fluid">
               </div>
             </div>
           </div>
+
+            <!--Fifth slide-->
+            <div class="carousel-item">
+              <div class="col-md-12">
+                <img src="https://gratiskalorietabel.dk/wp-content/uploads/2017/08/kalorierichokoladekage-1024x683.jpg" class="img-fluid">
+              </div>
+            </div>
+          </div>
+
 
 
 

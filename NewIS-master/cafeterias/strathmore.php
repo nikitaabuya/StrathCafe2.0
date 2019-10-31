@@ -58,7 +58,7 @@
         echo '        
           <ul class="nav navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="fa fa-user"><strong> ' . $_SESSION['FirstName'] . " " . $_SESSION['LastName'] . ' - ' . $_SESSION['AdmissionNumber'] . '</strong></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -117,9 +117,9 @@
                       class="container-fluid" />
                   </div>
                   <div class="card-footer text-center">
-                    <span class="item-name">Ugali and omena</span>
+                    <span class="item-name">Ugali with omena</span>
                     <div class="item-details">
-                      <p class="item-price">Kshs. 65.00</p>
+                      <p class="item-price">Kshs. 165.00</p>
                       <div class="btn-primary btn" data-toggle="modal" data-target="#exampleModalCenter">
                         Order
                       </div>

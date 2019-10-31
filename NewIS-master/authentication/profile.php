@@ -26,7 +26,7 @@ if (!isset($_SESSION['loggedin'])) {
 	</head>
 
 	<body>
-	<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+	<nav class="navbar navbar-expand-lg navbar-light bg-primary">
     <a class="navbar-brand" href="./../home/index.php">
       <img src="./../images/logo/logo.png" class="img-fluid" width="40px"><strong>StrathCafe</strong>
     </a>
@@ -51,7 +51,7 @@ if (!isset($_SESSION['loggedin'])) {
         echo '        
           <ul class="nav navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="fa fa-user"><strong> ' . $_SESSION['FirstName'] . " " . $_SESSION['LastName'] . ' - ' . $_SESSION['AdmissionNumber'] . '</strong></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">

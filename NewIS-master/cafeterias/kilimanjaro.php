@@ -59,7 +59,7 @@
         echo '        
           <ul class="nav navbar-nav">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle text-primary" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              <a class="nav-link dropdown-toggle text-light" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                 <span class="fa fa-user"><strong> ' . $_SESSION['FirstName'] . " " . $_SESSION['LastName'] . ' - ' . $_SESSION['AdmissionNumber'] . '</strong></span>
               </a>
               <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
@@ -99,6 +99,8 @@
       </ul>
     </nav> -->
   <!-- <div class="confuse"></div> -->
+        <br>
+        <br>
   <div id="lunch">
     <div class="container-fluid">
       <div class="row">
@@ -117,6 +119,10 @@
             </div>
           </div>
         </div>
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="col-md-3">
           <div class="card">
             <div class="card-body">
@@ -124,28 +130,51 @@
                 class="container-fluid" />
             </div>
             <div class="card-footer text-center">
-              <span class="item-name">crunchy bhajia with salad</span>
+              <span class="item-name">Bhajias with unique sauce</span>
               <div class="item-details">
-                <p class="item-price">Kshs. 75.00</p>
+                <p class="item-price">Kshs. 175.00</p>
                 <div data-toggle="modal" data-target="#bhajia" class="btn-primary btn">Order</div>
               </div>
             </div>
           </div>
-        </div>
+        </div>        
+        <br>
+       
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>        
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="col-md-3">
           <div class="card">
             <div class="card-body">
               <img src="https://images7.alphacoders.com/816/816665.jpg" height="250px" alt="" class="container-fluid" />
             </div>
             <div class="card-footer text-center">
-              <span class="item-name">hot-dog- with ketchup and sauce</span>
+              <span class="item-name">Hotdog</span>
               <div class="item-details">
                 <p class="item-price">Kshs. 115.00</p>
                 <div data-toggle="modal" data-target="#hot-dog" class="btn-primary btn">Order</div>
               </div>
             </div>
           </div>
-        </div>
+        </div>        
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="col-md-3">
           <div class="card">
             <div class="card-body">
@@ -154,7 +183,7 @@
                 height="250px" alt="" class="container-fluid" />
             </div>
             <div class="card-footer text-center">
-              <span class="item-name">tasty kebab with fries and cold soda</span>
+              <span class="item-name">Kebabs with fries</span>
               <div class="item-details">
                 <p class="item-price">Kshs. 265.00</p>
                 <div data-toggle="modal" data-target="#kebab" class="btn-primary btn">Order</div>
@@ -162,6 +191,10 @@
             </div>
           </div>
         </div>
+        <br>
+        <br>
+        <br>
+        <br>
         <div class="row">
           <div class="col-md-3">
             <div class="card">
@@ -170,14 +203,18 @@
                   class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">fried-chips-masala</span>
+                <span class="item-name">Chips masala</span>
                 <div class="item-details">
-                  <p class="item-price">Kshs. 145.00</p>
+                  <p class="item-price">Kshs. 110.00</p>
                   <div data-toggle="modal" data-target="#masala" class="btn-primary btn">Order</div>
                 </div>
               </div>
             </div>
           </div>
+        <br>
+        <br>
+        <br>
+        <br>
           <div class="col-md-3">
             <div class="card">
               <div class="card-body">
@@ -185,7 +222,7 @@
                   class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">recette hamburger and fries</span>
+                <span class="item-name">Hamburger and fries</span>
                 <div class="item-details">
                   <p class="item-price">Kshs. 300.00</p>
                   <div data-toggle="modal" data-target="#recette" class="btn-primary btn">Order</div>
@@ -200,7 +237,7 @@
                   height="250px" alt="" class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">french fries-ketchup and chicken </span>
+                <span class="item-name">Chicken with french fries</span>
                 <div class="item-details">
                   <p class="item-price">Kshs. 305.00</p>
                   <div data-toggle="modal" data-target="#chicken" class="btn-primary btn">Order</div>
@@ -215,9 +252,9 @@
                   alt="" class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">plain-fries</span>
+                <span class="item-name">Plain fries</span>
                 <div class="item-details">
-                  <p class="item-price">Kshs. 105.00</p>
+                  <p class="item-price">Kshs. 100.00</p>
                   <div data-toggle="modal" data-target="#plain-fries" class="btn-primary btn">Order</div>
                 </div>
               </div>
