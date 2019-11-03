@@ -26,6 +26,14 @@
   color: #000000;
   margin: 60px 0 0 0;
 }
+
+  h4 {
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 35px;
+  color: #000000;
+  margin: 60px 0 0 0;
+}
 </style>
 
 
@@ -90,7 +98,10 @@
   </nav>
   
   <h1><strong>PATE CAFETERIA</strong></h1>
-  
+  <h4><strong>meals available</strong></h4>
+  <br>
+  <br>
+
   <!-- <nav>
       <ul>
         <li><a href="#breakfast">Breakfast</a></li>
@@ -106,7 +117,7 @@
         <div class="col-md-4">
           <div class="card">
             <div class="card-body">
-              <img src="https://thecookbook.pk/wp-content/uploads/2019/06/0_4wumHkmkVKG38b5l-1300x866.jpg"
+              <img src="https://cdn.pixabay.com/photo/2019/08/15/09/00/pilaf-4407502_640.jpg"
                 height="250px" alt="" class="container-fluid" />
             </div>
             <div class="card-footer text-center">
@@ -124,13 +135,13 @@
           <div class="card">
             <div class="card-body">
               <img
-                src="https://i2.wp.com/howkenya.com/wp-content/uploads/2019/03/beef_pilau_rice.jpg?fit=750%2C501&ssl=1"
+                src="https://www.whats4eats.com/files/grains-ugali-with-cabbage-flickr-bitterjug-2248918702-4x3.jpg"
                 height="250px" alt="" class="container-fluid" />
             </div>
             <div class="card-footer text-center">
-              <span class="item-name">Pilau</span>
+              <span class="item-name">Ugali and cabbage</span>
               <div class="item-details">
-                <p class="item-price">Kshs. 150.00</p>
+                <p class="item-price">Kshs. 100.00</p>
                 <div data-toggle="modal" data-target="#exampleModalCenterf2" class="btn-primary btn">
                   Order
                 </div>
@@ -141,13 +152,13 @@
         <div class="col-md-4">
           <div class="card">
             <div class="card-body">
-              <img src="https://africageographic.com/wp-content/uploads/2017/04/IMG-20170328-WA0006.jpg" height="250px"
+              <img src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients-asia.com/article/2019/04/22/chapati-for-weight-loss-optibiotix-outlines-indian-plans-for-slimbiome-after-fssai-approval/9389610-2-eng-GB/Chapati-for-weight-loss-OptiBiotix-outlines-Indian-plans-for-SlimBiome-after-FSSAI-approval_wrbm_large.jpg" height="250px"
                 alt="" class="container-fluid" />
             </div>
             <div class="card-footer text-center">
-              <span class="item-name">Beef-biryani</span>
+              <span class="item-name">Chapati and meat stew</span>
               <div class="item-details">
-                <p class="item-price">Kshs. 200.00</p>
+                <p class="item-price">Kshs. 190.00</p>
                 <div data-toggle="modal" data-target="#exampleModalCenterf3" class="btn-primary btn">
                   Order
                 </div>
@@ -155,17 +166,37 @@
             </div>
           </div>
         </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+
         <div class="row">
           <div class="col-md-4">
             <div class="card">
               <div class="card-body">
-                <img src="https://fauziaskitchenfun.com/wp-content/uploads/2013/08/beef-biryani.jpg" height="250px"
+                <img src="https://cdn.pixabay.com/photo/2019/05/30/19/15/rice-dish-4240511_1280.jpg" height="250px"
                   alt="" class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">Ugali-fish</span>
+                <span class="item-name">Vegetable rice</span>
                 <div class="item-details">
-                  <p class="item-price">Kshs. 125.00</p>
+                  <p class="item-price">Kshs. 115.00</p>
                   <div data-toggle="modal" data-target="#exampleModalCenterf4" class="btn-primary btn">
                     Order
                   </div>
@@ -176,13 +207,13 @@
           <div class="col-md-4">
             <div class="card">
               <div class="card-body">
-                <img src="https://i0.wp.com/farm2.static.flickr.com/1462/25523414365_df283c7257.jpg?w=730&ssl=1"
+                <img src="https://maisminas.org/wp-content/uploads/2017/07/food-1081707_1920.jpg"
                   height="250px" alt="" class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">Mahamri and mbaazi</span>
+                <span class="item-name">Burger and Fries</span>
                 <div class="item-details">
-                  <p class="item-price">Kshs. 100.00</p>
+                  <p class="item-price">Kshs. 310.00</p>
                   <div data-toggle="modal" data-target="#exampleModalCenterf5" class="btn-primary btn">
                     Order
                   </div>
@@ -193,13 +224,13 @@
           <div class="col-md-4">
             <div class="card">
               <div class="card-body">
-                <img src="https://www.ratansev.com/wp-content/uploads/2017/11/moong-dal-samosa-new.jpg" height="250px"
+                <img src="https://scontent-dfw5-1.cdninstagram.com/vp/261c78f529b0ec47c9e4f7b97eaea3c8/5DE51BAA/t51.2885-15/e35/66673350_157298228762052_6413550502706531258_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com" height="250px"
                   alt="" class="container-fluid" />
               </div>
               <div class="card-footer text-center">
-                <span class="item-name">Samosa</span>
+                <span class="item-name">Fried chicken legs</span>
                 <div class="item-details">
-                  <p class="item-price">Kshs. 50.00 each</p>
+                  <p class="item-price">Kshs. 80.00</p>
                   <div data-toggle="modal" data-target="#exampleModalCenterf6" class="btn-primary btn">
                     Order
                   </div>
@@ -222,28 +253,30 @@
             Chicken-biryani.
           </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://cdn.pixabay.com/photo/2019/08/15/09/00/pilaf-4407502_640.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">200</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-body">
-          <center>
-            <img src="https://thecookbook.pk/wp-content/uploads/2019/06/0_4wumHkmkVKG38b5l-1300x866.jpg" height="150px"
-              alt="" />
-          </center>
-        </div>
-        <div class="modal-footer">
-          <button class="btn change-cart"><i class="fa fa-minus"></i></button>
-          <p>1</p>
-          <button class="btn change-cart mr-4">
-            <i class="fa fa-plus"></i>
-          </button>
-          <button type="button" class="btn btn-primary align-right" id="orderbtn">
-            Add to cart
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
 
   <!-- food2 -->
 
@@ -253,31 +286,34 @@
       <div class="modal-content">
         <div class="modal-header food-header">
           <h5 class="modal-title " id="exampleModalCenterf2">
-            Chicken-biryani.
+            Ugali and cabbage
           </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://www.whats4eats.com/files/grains-ugali-with-cabbage-flickr-bitterjug-2248918702-4x3.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">100</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-body">
-          <center>
-            <img src="https://i2.wp.com/howkenya.com/wp-content/uploads/2019/03/beef_pilau_rice.jpg?fit=750%2C501&ssl=1"
-              height="150px" alt="" />
-          </center>
-        </div>
-        <div class="modal-footer">
-          <button class="btn change-cart"><i class="fa fa-minus"></i></button>
-          <p>1</p>
-          <button class="btn change-cart mr-4">
-            <i class="fa fa-plus"></i>
-          </button>
-          <button type="button" class="btn btn-primary align-right" id="orderbtn">
-            Add to cart
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <!-- food3 -->
   <div class="modal fade" id="exampleModalCenterf3" tabindex="-1" role="dialog"
     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -285,31 +321,34 @@
       <div class="modal-content">
         <div class="modal-header food-header">
           <h5 class="modal-title " id="exampleModalCenterf3">
-            Beef-biryani
+            Chapati and meat stew
           </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients-asia.com/article/2019/04/22/chapati-for-weight-loss-optibiotix-outlines-indian-plans-for-slimbiome-after-fssai-approval/9389610-2-eng-GB/Chapati-for-weight-loss-OptiBiotix-outlines-Indian-plans-for-SlimBiome-after-FSSAI-approval_wrbm_large.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">190</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-body">
-          <center>
-            <img src="https://africageographic.com/wp-content/uploads/2017/04/IMG-20170328-WA0006.jpg" height="150px"
-              alt="" />
-          </center>
-        </div>
-        <div class="modal-footer">
-          <button class="btn change-cart"><i class="fa fa-minus"></i></button>
-          <p>1</p>
-          <button class="btn change-cart mr-4">
-            <i class="fa fa-plus"></i>
-          </button>
-          <button type="button" class="btn btn-primary align-right" id="orderbtn">
-            Add to cart
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <!-- food4 -->
   <div class="modal fade" id="exampleModalCenterf4" tabindex="-1" role="dialog"
     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -317,31 +356,34 @@
       <div class="modal-content">
         <div class="modal-header food-header">
           <h5 class="modal-title " id="exampleModalCenterf4">
-            Beef
+            Vegetable Rice
           </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://cdn.pixabay.com/photo/2019/05/30/19/15/rice-dish-4240511_1280.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">105</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-body">
-          <center>
-            <img src="https://fauziaskitchenfun.com/wp-content/uploads/2013/08/beef-biryani.jpg" height="150px"
-              alt="" />
-          </center>
-        </div>
-        <div class="modal-footer">
-          <button class="btn change-cart"><i class="fa fa-minus"></i></button>
-          <p>1</p>
-          <button class="btn change-cart mr-4">
-            <i class="fa fa-plus"></i>
-          </button>
-          <button type="button" class="btn btn-primary align-right" id="orderbtn">
-            Add to cart
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <!-- food5 -->
   <div class="modal fade" id="exampleModalCenterf5" tabindex="-1" role="dialog"
     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -349,31 +391,34 @@
       <div class="modal-content">
         <div class="modal-header food-header">
           <h5 class="modal-title " id="exampleModalCenterf5">
-            Beef
+            Burger and fries
           </h5>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://cdn.pixabay.com/photo/2019/05/30/19/15/rice-dish-4240511_1280.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">115</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-body">
-          <center>
-            <img src="https://i0.wp.com/farm2.static.flickr.com/1462/25523414365_df283c7257.jpg?w=730&ssl=1"
-              height="150px" alt="" />
-          </center>
-        </div>
-        <div class="modal-footer">
-          <button class="btn change-cart"><i class="fa fa-minus"></i></button>
-          <p>1</p>
-          <button class="btn change-cart mr-4">
-            <i class="fa fa-plus"></i>
-          </button>
-          <button type="button" class="btn btn-primary align-right" id="orderbtn">
-            Add to cart
-          </button>
-        </div>
-      </div>
-    </div>
-  </div>
+
   <!-- food6 -->
   <div class="modal fade" id="exampleModalCenterf6" tabindex="-1" role="dialog"
     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -381,31 +426,267 @@
       <div class="modal-content">
         <div class="modal-header food-header">
           <h5 class="modal-title " id="exampleModalCenterf6">
-            Samosa
+            Fried chicken rice
+          </h5>
+<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://scontent-dfw5-1.cdninstagram.com/vp/261c78f529b0ec47c9e4f7b97eaea3c8/5DE51BAA/t51.2885-15/e35/66673350_157298228762052_6413550502706531258_n.jpg?_nc_ht=scontent-dfw5-1.cdninstagram.com" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">80</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+ 
+
+        <h4><strong>drinks available</strong></h4>
+        <br>
+        <br>
+
+
+         <div id="lunch">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://steemitimages.com/0x0/https://cdn.pixabay.com/photo/2015/08/10/12/33/beverage-882652_1280.jpg"
+                height="250px" alt="" class="container-fluid" />
+            </div>
+            <div class="card-footer text-center">
+              <span class="item-name">Fruit juice</span>
+              <div class="item-details">
+                <p class="item-price">Kshs. 60.00</p>
+                <div class="btn-primary btn" data-toggle="modal" data-target="#exampleModalCenter">
+                  Order
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/56e827f5c2ea5108b73ee575/1514687097388-JHUP6QMI3CXJ450YMKP5/ke17ZwdGBToddI8pDm48kH23KVWagbNOYpajbj_MQLNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIJtg7yny0RBSV5PxpX1XPrwAROGqRUCBAuccPtaePpQsKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg"
+                height="250px" alt="" class="container-fluid" />
+            </div>
+            <div class="card-footer text-center">
+              <span class="item-name">Soda</span>
+              <div class="item-details">
+                <p class="item-price">Kshs. 40.00</p>
+                <div data-toggle="modal" data-target="#exampleModalCenterf2" class="btn-primary btn">
+                  Order
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://www.gastrovbrne.cz/image/images/cms/articles/gastrovbrne_ostruziny_recept_zajimavosti-4-.jpg/?w=1980" height="250px"
+                alt="" class="container-fluid" />
+            </div>
+            <div class="card-footer text-center">
+              <span class="item-name">Yoghurt</span>
+              <div class="item-details">
+                <p class="item-price">Kshs. 70.00</p>
+                <div data-toggle="modal" data-target="#exampleModalCenterf3" class="btn-primary btn">
+                  Order
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+  <!-- drink 1 -->
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header food-header">
+          <h5 class="modal-title " id="exampleModalCenterTitle">
+            Fruit juice
           </h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://steemitimages.com/0x0/https://cdn.pixabay.com/photo/2015/08/10/12/33/beverage-882652_1280.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">60</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-body">
-          <center>
-            <img src="https://www.ratansev.com/wp-content/uploads/2017/11/moong-dal-samosa-new.jpg" height="150px"
-              alt="" />
-          </center>
+
+  <!-- drink 2 -->
+
+  <div class="modal fade" id="exampleModalCenterf2" tabindex="-1" role="dialog"
+    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header food-header">
+          <h5 class="modal-title " id="exampleModalCenterf2">
+            Soda
+          </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://images.squarespace-cdn.com/content/v1/56e827f5c2ea5108b73ee575/1514687097388-JHUP6QMI3CXJ450YMKP5/ke17ZwdGBToddI8pDm48kH23KVWagbNOYpajbj_MQLNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIJtg7yny0RBSV5PxpX1XPrwAROGqRUCBAuccPtaePpQsKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">40</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="modal-footer">
-          <button class="btn change-cart"><i class="fa fa-minus"></i></button>
-          <p>1</p>
-          <button class="btn change-cart mr-4">
-            <i class="fa fa-plus"></i>
-          </button>
-          <button type="button" class="btn btn-primary align-right" id="orderbtn">
-            Add to cart
-          </button>
+
+  <!-- drink 3 -->
+  <div class="modal fade" id="exampleModalCenterf3" tabindex="-1" role="dialog"
+    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header food-header">
+          <h5 class="modal-title " id="exampleModalCenterf3">
+            Yoghurt
+          </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://www.gastrovbrne.cz/image/images/cms/articles/gastrovbrne_ostruziny_recept_zajimavosti-4-.jpg/?w=1980" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">70</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-  </div>
+      </div></div>
+
+
+
+
+        <h4><strong>snacks available</strong></h4>
+        <br>
+        <br>
+
+
+      
+
+
+        <!-- cart modal -->
+        <div class="modal fade" id="myModal">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+      
+              <!-- Modal Header -->
+              <div class="modal-header">
+                <h2 class="modal-title " style="margin-left: 250px;">View cart</h2>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+              </div>
+      
+              <!-- Modal body -->
+              <div class="modal-body">
+                <section>
+      
+                  <center>
+                    <div class="myShoppingCart">
+                      <img src="./images/cart.svg" alt="" />
+                      <h3>You have no food in your shopping cart</h3>
+                    </div>
+                  </center>
+                  <div class="viewOrders">
+                    <table>
+                      <tr id="tablehead">
+                        <th>Food</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total price</th>
+                      </tr>
+      
+                    </table>
+                    <!-- <table>
+                        <div>
+                          <tr id="myFood" style="padding: 15px; margin-left: 100px;"></tr>
+                        </div>
+                      </table> -->
+                  </div>
+      
+                </section>
+              </div>
+      
+              <!-- Modal footer -->
+              <div class="modal-footer">
+                <button id="location" type="button" class="btn btn-secondary" data-dismiss="modal">Checkout</button>
+              </div>
+      
+            </div>
+          </div>
+        </div>      
+        </div>
+
 
   <!--footer-->
   <footer>

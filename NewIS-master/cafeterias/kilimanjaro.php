@@ -25,6 +25,14 @@
   color: #000000;
   margin: 60px 0 0 0;
 }
+
+  h4 {
+  font-family: 'Londrina Shadow', cursive;
+  text-align: center;
+  font-size: 35px;
+  color: #000000;
+  margin: 60px 0 0 0;
+}
 </style>
 
 
@@ -90,6 +98,7 @@
   </nav>
 
   <h1><strong>KILIMANJARO CAFETERIA</strong></h1>
+  <h4><strong> meals available</strong></h4>
   <!-- <nav>
       <ul>
         <li><a href="#breakfast">Breakfast</a></li>
@@ -531,6 +540,231 @@
       </div>
     </div>
   </div>
+
+
+
+
+
+ 
+
+        <h4><strong>drinks available</strong></h4>
+
+         <div id="lunch">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://steemitimages.com/0x0/https://cdn.pixabay.com/photo/2015/08/10/12/33/beverage-882652_1280.jpg"
+                height="250px" alt="" class="container-fluid" />
+            </div>
+            <div class="card-footer text-center">
+              <span class="item-name">Fruit juice</span>
+              <div class="item-details">
+                <p class="item-price">Kshs. 60.00</p>
+                <div class="btn-primary btn" data-toggle="modal" data-target="#exampleModalCenter">
+                  Order
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <img
+                src="https://images.squarespace-cdn.com/content/v1/56e827f5c2ea5108b73ee575/1514687097388-JHUP6QMI3CXJ450YMKP5/ke17ZwdGBToddI8pDm48kH23KVWagbNOYpajbj_MQLNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIJtg7yny0RBSV5PxpX1XPrwAROGqRUCBAuccPtaePpQsKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg"
+                height="250px" alt="" class="container-fluid" />
+            </div>
+            <div class="card-footer text-center">
+              <span class="item-name">Soda</span>
+              <div class="item-details">
+                <p class="item-price">Kshs. 40.00</p>
+                <div data-toggle="modal" data-target="#exampleModalCenterf2" class="btn-primary btn">
+                  Order
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card">
+            <div class="card-body">
+              <img src="https://www.gastrovbrne.cz/image/images/cms/articles/gastrovbrne_ostruziny_recept_zajimavosti-4-.jpg/?w=1980" height="250px"
+                alt="" class="container-fluid" />
+            </div>
+            <div class="card-footer text-center">
+              <span class="item-name">Yoghurt</span>
+              <div class="item-details">
+                <p class="item-price">Kshs. 70.00</p>
+                <div data-toggle="modal" data-target="#exampleModalCenterf3" class="btn-primary btn">
+                  Order
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+  <!-- drink 1 -->
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+    aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header food-header">
+          <h5 class="modal-title " id="exampleModalCenterTitle">
+            Fruit juice
+          </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://steemitimages.com/0x0/https://cdn.pixabay.com/photo/2015/08/10/12/33/beverage-882652_1280.jpg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">60</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+  <!-- drink 2 -->
+
+  <div class="modal fade" id="exampleModalCenterf2" tabindex="-1" role="dialog"
+    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header food-header">
+          <h5 class="modal-title " id="exampleModalCenterf2">
+            Soda
+          </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://images.squarespace-cdn.com/content/v1/56e827f5c2ea5108b73ee575/1514687097388-JHUP6QMI3CXJ450YMKP5/ke17ZwdGBToddI8pDm48kH23KVWagbNOYpajbj_MQLNZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIJtg7yny0RBSV5PxpX1XPrwAROGqRUCBAuccPtaePpQsKMshLAGzx4R3EDFOm1kBS/image-asset.jpeg" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">40</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+  <!-- drink 3 -->
+  <div class="modal fade" id="exampleModalCenterf3" tabindex="-1" role="dialog"
+    aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header food-header">
+          <h5 class="modal-title " id="exampleModalCenterf3">
+            Yoghurt
+          </h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <center>
+                  <img src="https://www.gastrovbrne.cz/image/images/cms/articles/gastrovbrne_ostruziny_recept_zajimavosti-4-.jpg/?w=1980" height="150px" alt="" />
+                </center>
+              </div>
+              <div class="modal-footer">
+                <button class="btn change-cart" id="subtract">
+                  <i class="fa fa-minus"></i>
+                </button>
+                <p id="quantity">1</p>
+                <button class="btn change-cart mr-4" id="add">
+                  <i class="fa fa-plus"></i>
+                </button>
+                <p id="price">70</p>
+                <button type="button" class="btn align-right" id="orderbtn" data-dismiss="modal">
+                  Add to cart
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+             
+        <!-- cart modal -->
+        <div class="modal fade" id="myModal">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+      
+              <!-- Modal Header -->
+              <div class="modal-header">
+                <h2 class="modal-title " style="margin-left: 250px;">View cart</h2>
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+              </div>
+      
+              <!-- Modal body -->
+              <div class="modal-body">
+                <section>
+      
+                  <center>
+                    <div class="myShoppingCart">
+                      <img src="./images/cart.svg" alt="" />
+                      <h3>You have no food in your shopping cart</h3>
+                    </div>
+                  </center>
+                  <div class="viewOrders">
+                    <table>
+                      <tr id="tablehead">
+                        <th>Food</th>
+                        <th>Quantity</th>
+                        <th>Price</th>
+                        <th>Total price</th>
+                      </tr>
+      
+                    </table>
+                    <!-- <table>
+                        <div>
+                          <tr id="myFood" style="padding: 15px; margin-left: 100px;"></tr>
+                        </div>
+                      </table> -->
+                  </div>
+      
+                </section>
+              </div>
+      
+              <!-- Modal footer -->
+              <div class="modal-footer">
+                <button id="location" type="button" class="btn btn-secondary" data-dismiss="modal">Checkout</button>
+              </div>
+      
+            </div>
+          </div>
+        </div>      
+        </div>
+
+
 
   <!--footer-->
   <footer>
